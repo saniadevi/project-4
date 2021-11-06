@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "nama": "Budi",
+      "judul": "Komik Naruto",
+      "pinjam": "6-11-2021",
+      "kembali": "20-10-2021",
+      "id": 0
+    },
+    {
+      "nama": "Sania ",
+      "judul": "Romeo and Juliet",
+      "pinjam": "2021-11-24",
+      "kembali": "2021-11-13",
+      "id": 1
+    }
+  ]
+}
